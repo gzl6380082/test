@@ -1,0 +1,10 @@
+resin 应用服务器
+spring mvc
+spring jdbc
+
+
+jbpm4.4 工作流
+
+
+oracle 
+postgresql数据库
